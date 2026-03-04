@@ -129,19 +129,27 @@ Identified directors with the highest number of titles on the platform.
 
 ## Project Structure
 
+```
 Netflix-Data-Analysis
 │
 ├── data
 │   └── netflix_titles.csv
 │
+├── images
+│   ├── content_added_by_country.png
+│   ├── content_growth.png
+│   ├── movies_vs_tv_shows.png
+│   ├── netflix_content_rating.png
+│   ├── top_directors_on_netflix.png
+│   ├── top_countries_producing_content.png
+│   └── top_genres.png
+|   └── requirements.txt
+│
 ├── notebook
 │   └── Netflix_Data_Analysis.ipynb
 │
-├── images
-│
-├── requirements.txt
-│
 └── README.md
+```
 
 ---
 
